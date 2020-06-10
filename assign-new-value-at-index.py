@@ -9,3 +9,5 @@ print(crayons)
 
 crayons[-1] = "Aquamarine"
 print(crayons)
+
+crayons[2] = "Punchbug Yellow"
