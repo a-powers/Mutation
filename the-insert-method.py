@@ -21,4 +21,4 @@ def factors(numbers):
         if numbers % number == 0:
             all_factors.append(number)
     return all_factors
-print(factors(64))
+print(factors(6))
